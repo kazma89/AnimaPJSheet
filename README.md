@@ -1,2 +1,2 @@
 # AnimaPJSheet
-Constructor web de personajes para el juego de rol Anima
+Web app para elaborar personajes para el juego de Anima Beyond Fantasy
